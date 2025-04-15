@@ -1,0 +1,6 @@
+{
+  "name": "pingpongu-web",
+  "version": "1.0.0",
+  "description": "Web version of PingPongu - AI vs Human Pong Game",
+  "private": true
+} 

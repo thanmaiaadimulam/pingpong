@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Large binary files
+*.so
+*.dylib
+*.dll
+*.exe
+
+# MediaPipe and TensorFlow files
+**/site-packages/mediapipe/
+**/site-packages/tensorflow/ 
