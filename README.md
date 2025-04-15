@@ -26,10 +26,6 @@ A web-based Pong game where you play against an AI using hand tracking! Control 
    - Use your right hand to control the red paddle
    - The green paddle is controlled by the AI
 
-## Online Play
-
-You can also play the game online at: [https://thanmaiaadimulam.github.io/pingpong/](https://thanmaiaadimulam.github.io/pingpong/)
-
 ## Features
 
 - Hand tracking using MediaPipe
